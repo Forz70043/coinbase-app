@@ -1,0 +1,25 @@
+{
+  "name": "coinbase-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forz70043/coinbase-app.git"
+  },
+  "author": "Forz70043",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Forz70043/coinbase-app/issues"
+  },
+  "homepage": "https://github.com/Forz70043/coinbase-app#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
